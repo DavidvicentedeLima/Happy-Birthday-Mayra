@@ -251,16 +251,20 @@ blockquote span{
 .sec-one-left div p{
     font-weight: 300;
     opacity: 0.8;
+    color: var(--white);
 }
 .sec-one-right h3{
-    color: var(--lightGrey);
+    /* color: var(--lightGrey); */
+    color: var(--white);
 }
 .sec-one-right >h3{
     text-align: center;
+    color: var(--white);
 }
 .sec-one-right p{
     opacity: 0.9;
     font-weight: 300;
+    color: var(--white);
 }
 .work-content{
     margin: 50px 0;
